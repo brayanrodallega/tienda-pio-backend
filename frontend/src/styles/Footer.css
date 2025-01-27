@@ -1,0 +1,15 @@
+.footer {
+  background-color: var(--primary-color);
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  height: 60px; /* Asegúrate de que el footer tenga una altura definida */
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
